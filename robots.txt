@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-w7sgff.koi888win.sbs/sitemap.xml
